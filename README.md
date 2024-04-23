@@ -44,7 +44,7 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 ## Neural Network Model
 
 <p align="center">
-<img src="https://github.com/shalinikannan23/named-entity-recognition/assets/118656529/6e1bed0a-da45-411f-a430-b13b8f5d372f" width="650" height="450">
+<img height=10% width=30% src ="https://github.com/shalinikannan23/named-entity-recognition/assets/118656529/6e1bed0a-da45-411f-a430-b13b8f5d372f" width="650" height="450">
 </p>
 
 
